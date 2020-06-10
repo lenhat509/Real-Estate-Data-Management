@@ -35,7 +35,7 @@ address,price,beds,baths,prop_type,area
 81 Castlebridge Dr,299888,1,1,condo,456
 1845 Charmeran Ave,1098000,3,2,single_family,1120
 3628 Kirk Rd,1150000,3,2,single_family,1275
-1108-1112 Topaz Ave,1425000,5,,multi_family,2531
+1108-1112 Topaz Ave,1425000,5,0,multi_family,2531
 1684 Hydrangea Ln,1995000,3,3,single_family,2085
 2659 Keppler Dr,1250000,4,3,single_family,2105
 1863 Newbury Park Dr,1098000,4,4,condo,1985
